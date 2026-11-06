@@ -1,0 +1,14 @@
+D:\Github Copilot\Lab03\MyApp\bin\Debug\net10.0\MyApp.exe
+D:\Github Copilot\Lab03\MyApp\bin\Debug\net10.0\MyApp.deps.json
+D:\Github Copilot\Lab03\MyApp\bin\Debug\net10.0\MyApp.runtimeconfig.json
+D:\Github Copilot\Lab03\MyApp\bin\Debug\net10.0\MyApp.dll
+D:\Github Copilot\Lab03\MyApp\bin\Debug\net10.0\MyApp.pdb
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfoInputs.cache
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfo.cs
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\MyApp.dll
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\refint\MyApp.dll
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\MyApp.pdb
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
+D:\Github Copilot\Lab03\MyApp\obj\Debug\net10.0\ref\MyApp.dll
